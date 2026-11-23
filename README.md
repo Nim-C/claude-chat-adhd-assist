@@ -21,7 +21,6 @@ If you do not see Upload skill, turn on **Code execution** on the same screen fi
 | `/adhd-on` | Turns it on. Every reply then starts with `🔵 ADHD: ON` |
 | `/adhd-off` | Turns it off (`⚪ ADHD: OFF`) |
 | `/adhd-mode` | Shows whether it is on, and the options |
-| `/summary-adaptation` | Builds a Hebrew study-summary page with the ADHD rules applied to the page itself. Also runs on its own when you ask for a summary or to adapt study material. It does not turn ADHD mode on in the chat |
 
 - It stays on for the whole chat, through topic changes, until `/adhd-off`.
 - In a new chat it starts off.
@@ -29,7 +28,7 @@ If you do not see Upload skill, turn on **Code execution** on the same screen fi
 
 ## What is inside
 
-`adhd-mode-plugin.zip` holds the same files you see in this repository: `skills/adhd-mode`, `skills/adhd-on`, `skills/adhd-off`, `skills/summary-adaptation`.
+`adhd-mode-plugin.zip` holds the same files you see in this repository: `skills/adhd-mode`, `skills/adhd-on`, `skills/adhd-off`.
 
 ## Credits
 
